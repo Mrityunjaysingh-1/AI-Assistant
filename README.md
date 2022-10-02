@@ -1,4 +1,4 @@
-# AI - 24urs
+# AI Assistant - 24urs
 
 Do you want to create your own personal AI assistant, similar to Apple Siri, Microsoft Cortana, and Google Assistant?
 
